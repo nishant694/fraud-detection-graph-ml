@@ -1,0 +1,9 @@
+
+*.parquet
+*.pkl
+*.csv
+!results_table.csv
+data/
+venv/
+__pycache__/
+.ipynb_checkpoints/

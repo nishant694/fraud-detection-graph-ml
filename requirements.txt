@@ -1,0 +1,13 @@
+
+pandas
+numpy
+pyarrow
+scikit-learn
+lightgbm
+networkx
+joblib
+fastapi
+uvicorn
+pydantic
+streamlit
+requests
